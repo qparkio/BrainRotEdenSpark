@@ -60,6 +60,8 @@ Captured in the EdenSpark build. The illustrated cover above is promotional artw
 
 This repository contains the **EdenSpark source project and its assets**. An EdenSpark installation is required to run it.
 
+For coding-agent setup, the editor/MCP connection, and a first-run checklist, see [AGENT_INSTALL.md](AGENT_INSTALL.md).
+
 1. Install [EdenSpark](https://edenspark.io/en).
 2. Clone the project, or use **Code → Download ZIP** and extract it:
 

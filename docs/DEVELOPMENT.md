@@ -2,6 +2,8 @@
 
 The game is an EdenSpark project written in Gen2 Daslang. Runtime assets are already included: Blender, Python, and Node.js are not required just to play.
 
+For agent installation, the local editor/MCP connection, and a first-run checklist, start with [AGENT_INSTALL.md](../AGENT_INSTALL.md).
+
 ## Runtime layout
 
 | Layer | Modules |
