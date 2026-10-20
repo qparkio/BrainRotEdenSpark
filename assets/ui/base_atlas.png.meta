@@ -1,0 +1,8 @@
+guid:t="8730241a-c447-44f3-b8b4-665796e3ca6b"
+assetType:i=0
+filter:t="Bilinear"
+addressing:t="Clamp"
+anisotropicLevel:i=1
+generateMipLevels:b=no
+usage:t="Color"
+compressTexture:b=no

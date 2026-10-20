@@ -1,0 +1,16 @@
+* -text
+# Keep authored runtime scripts and asset metadata byte-for-byte.
+*.blk text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.cjs text eol=lf
+.gitattributes text eol=lf
+.gitignore text eol=lf
+LICENSE text eol=lf
+*.png binary
+*.jpg binary
+*.glb binary
+*.ttf binary
+*.mp3 binary
+*.ogg binary
+*.wav binary

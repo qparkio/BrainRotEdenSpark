@@ -1,0 +1,13 @@
+shader:t="standard_diffuse_shader"
+textures{
+it{
+guid:t="0199a000-0000-7000-8000-000000000003"
+type:i=2
+}
+it{}
+it{}
+it{}
+it{}
+it{}
+}
+properties{}

@@ -1,0 +1,33 @@
+# EdenSpark packages, launcher state, imported caches, and local player data
+.project/
+*.eden
+*.log
+*.dmp
+*.tmp
+*.bak
+*.save
+*.sav
+
+# Local tooling and machine-specific hidden configuration
+/.*
+!/.gitignore
+!/.gitattributes
+!/.github/
+.vscode/
+.idea/
+*.code-workspace
+
+# Secrets and generated tooling output
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+tools/qa/asset_validation.json
+tools/qa/asset_validation.json.meta
+Thumbs.db
+.DS_Store

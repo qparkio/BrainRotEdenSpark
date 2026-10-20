@@ -1,0 +1,12 @@
+{
+  "title": "Caravan / Desert theme",
+  "author": "yd",
+  "url": "https://opengameart.org/content/desert-theme",
+  "download": "https://opengameart.org/sites/default/files/caravan.ogg.ogg",
+  "license": "CC0-1.0",
+  "duration_seconds": 98.4,
+  "peak_dbfs_before_encode": -11.0,
+  "rms_dbfs_before_encode": -27.53,
+  "processing": "highpass=f=55,lowpass=f=6500,acompressor=threshold=0.18:ratio=2:attack=12:release=180; peak <= -11 dBFS, RMS <= -24 dBFS; Ogg Vorbis q4",
+  "sha256": "0a0bfe89cd064ad66944882959583c33435caa8cc53e3ae456c06453ead681ba"
+}

@@ -1,0 +1,17 @@
+title:t="Steal my Brainrot"
+description:t="Buy brainrots on the red carpet, earn cash, defend your base and steal from rivals. Collect 56 characters, unlock mutations, gear and three floors, fuse your collection and rebirth. Multiplayer for up to 8 players."
+project_guid:t="01a10385-e3ab-7ead-a277-9b3fc4d49a6d"
+defaultPrefab:t="856d4511-40a5-4dcc-b140-fa8122f82030"
+type:i=3
+author:t="andruw"
+hdRendering:b=yes
+genre:t="simulation"
+numberOfPlayers:t="single"
+numberOfPlayers:t="coop"
+preview:t="docs/images/cover.png"
+screenshots:t="docs/images/base-defense.jpg"
+screenshots:t="docs/images/thunder-event.jpg"
+screenshots:t="docs/images/base-and-portal.jpg"
+screenshots:t="docs/images/collection-index.jpg"
+screenshots:t="docs/images/rebirth.jpg"
+screenshots:t="docs/images/arena.jpg"

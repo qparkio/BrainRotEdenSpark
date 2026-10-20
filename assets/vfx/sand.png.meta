@@ -1,0 +1,6 @@
+guid:t="f1609e24-a643-4d46-81e8-30497c2a726b"
+assetType:i=0
+filter:t="Bilinear"
+addressing:t="Wrap"
+generateMipLevels:b=yes
+anisotropicLevel:i=4

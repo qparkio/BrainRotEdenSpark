@@ -1,0 +1,27 @@
+shader:t="standard_specular_shader"
+textures{
+it{}
+it{}
+it{}
+it{}
+it{}
+it{}
+}
+properties{
+faceCullMode{
+__variant_index:i=2
+i:i=1
+}
+color{
+__variant_index:i=1
+f4:p4=1, 1, 1, 1
+}
+specularColor{
+__variant_index:i=1
+f4:p4=0.12, 0.12, 0.12, 1
+}
+glossiness{
+__variant_index:i=0
+f:r=0.55
+}
+}

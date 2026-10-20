@@ -1,0 +1,8 @@
+Thunder event music: Caravan / Desert theme
+Author: yd
+Source page: https://opengameart.org/content/desert-theme
+Original download: https://opengameart.org/sites/default/files/caravan.ogg.ogg
+License: CC0 1.0 - https://creativecommons.org/publicdomain/zero/1.0/
+The author's source page lists CC0 and identifies it as background desert music.
+Adaptation: high-pass 55 Hz, low-pass 6500 Hz, gentle compression, lower peak/RMS
+level, Ogg Vorbis encoding. Three-second crossfade controlled by server event state.

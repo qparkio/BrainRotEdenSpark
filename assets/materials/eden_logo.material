@@ -1,0 +1,26 @@
+shader:t="standard_unlit_shader"
+textures{
+it{
+guid:t="01a104bd-65f1-7073-888c-72114b3d0d39"
+type:i=2
+}
+it{}
+it{}
+it{}
+it{}
+it{}
+}
+properties{
+faceCullMode{
+__variant_index:i=2
+i:i=0
+}
+transparencyMode{
+__variant_index:i=2
+i:i=1
+}
+color{
+__variant_index:i=1
+f4:p4=1, 1, 1, 1
+}
+}

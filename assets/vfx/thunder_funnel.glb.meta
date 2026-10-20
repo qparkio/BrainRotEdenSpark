@@ -1,0 +1,9 @@
+guid:t="1d44cfde-5ae4-468a-9688-01c371bbf52c"
+assetType:i=3
+sceneScale:r=1
+importMeshes:b=yes
+importMaterials:b=yes
+flipUvs:b=no
+physicsShapeImport{
+defaultAlgorithm:t="Disabled"
+}
